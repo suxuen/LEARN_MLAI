@@ -62,3 +62,5 @@ Done:
 - *Hypothesis: because B site has the most significant influence on perovskite band gaps, grouping by alloy_id would lead to more leakage than B1_B2 as alloys with different the same B1_B2 site but have different A1/A2/X site(s) would be treated as different groups.*
 - TBC
 - 
+- 
+- 
